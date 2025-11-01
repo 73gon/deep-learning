@@ -1,6 +1,6 @@
 import os, platform, subprocess, sys
 
-CUDA_URL = "https://download.pytorch.org/whl/cu124"
+CUDA_URL = "https://download.pytorch.org/whl/cu130"
 
 def main():
     # macOS automatically gets MPS-capable build from PyPI
