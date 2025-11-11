@@ -12,7 +12,8 @@ dependencies = [
     "torch",
     "torchvision",
     "torchaudio",
-    "matplotlib-inline (>=0.1.7,<0.2.0)"
+    "matplotlib-inline (>=0.1.7,<0.2.0)",
+    "scikit-learn (>=1.7.2,<2.0.0)"
 ]
 
 [tool.poetry]
